@@ -1,9 +1,3 @@
-[build-system]
-requires = ["setuptools >= 40.8.0", "wheel"]
-build-backend = "setuptools.build_meta"
-
-[tool.black]
-line-length = 121
-
-[tool.check-manifest]
-ignore = [".travis.yml", "script/*", "*.tex"]
+version https://git-lfs.github.com/spec/v1
+oid sha256:92310dfa550383beaef7c75e3b2eb4316ae4a38fd2b6a29f9c45b0831f1ac44d
+size 201

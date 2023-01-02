@@ -1,10 +1,3 @@
-flake8==3.4.1
-future==0.16.0
-mock==2.0.0
-pytest-cov==2.5.1
-pytest-forked==0.2
-pytest-randomly==1.2.1
-pytest-timeout==1.2.0
-pytest-xdist==1.20.0
-pytest==3.2.1
-six==1.10.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b01aabe680a2ba85d77ef3ce8fd294f8cd563cee1673ccc3ba74501d12a03c7
+size 170
